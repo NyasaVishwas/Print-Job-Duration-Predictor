@@ -1,0 +1,7 @@
+pymongo
+scikit-learn
+pandas
+numpy
+joblib
+matplotlib
+python-dotenv
