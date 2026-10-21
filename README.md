@@ -57,8 +57,6 @@ git clone https://github.com/NyasaVishwas/Print-Job-Duration-Predictor.git
 cd "Print Job Duration Predictor"
 ```
 
-Replace `<your-repository-url>` with your GitHub repository URL.
-
 ### 2. Create and activate a virtual environment
 
 On macOS or Linux:
