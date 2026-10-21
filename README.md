@@ -54,7 +54,7 @@ The project was developed and tested using Python 3.13 and a local MongoDB insta
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone (https://github.com/NyasaVishwas/Print-Job-Duration-Predictor.git)
 cd "Print Job Duration Predictor"
 ```
 
