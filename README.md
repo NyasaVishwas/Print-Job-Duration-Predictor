@@ -35,7 +35,6 @@ Print Job Duration Predictor/
 ├── aggregations.py
 ├── main.py
 ├── requirements.txt
-├── data/
 ├── models/
 │   └── linear_regression.joblib
 └── README.md
@@ -54,7 +53,7 @@ The project was developed and tested using Python 3.13 and a local MongoDB insta
 ### 1. Clone the repository
 
 ```bash
-git clone (https://github.com/NyasaVishwas/Print-Job-Duration-Predictor.git)
+git clone https://github.com/NyasaVishwas/Print-Job-Duration-Predictor.git
 cd "Print Job Duration Predictor"
 ```
 
